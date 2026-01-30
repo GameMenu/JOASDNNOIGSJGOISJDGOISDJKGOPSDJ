@@ -1,1 +1,842 @@
-
+[
+  {
+    "Key": "OPDI-2026-BKXE-W2LW-A9AQ",
+    "Type": "Weekly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Haftalık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-YMK9-MN9E-QSG9",
+    "Type": "Lifetime",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "Ömür Boyu Lisans"
+  },
+  {
+    "Key": "OPDI-2026-FZ6G-VE6L-CVJ8",
+    "Type": "SixMonths",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-NRLQ-THPK-VTNC",
+    "Type": "SixMonths",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-WVRU-8F2M-NZ69",
+    "Type": "Yearly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-5ZAA-ZA2F-NFEH",
+    "Type": "Lifetime",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "Ömür Boyu Lisans"
+  },
+  {
+    "Key": "OPDI-2026-R3ZF-44XQ-HZ6M",
+    "Type": "Lifetime",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "Ömür Boyu Lisans"
+  },
+  {
+    "Key": "OPDI-2026-CJB4-LZV2-GRMD",
+    "Type": "Monthly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-78N5-GLZX-6VFP",
+    "Type": "SixYears",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-FMMV-NA5E-DD3H",
+    "Type": "Monthly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-UBJF-Y6EJ-4HV8",
+    "Type": "Monthly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-JWNL-LCPU-GJ88",
+    "Type": "SixYears",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-JB96-G6UC-FC3K",
+    "Type": "Weekly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Haftalık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-7668-HCEX-LHUA",
+    "Type": "Weekly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Haftalık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-C5B8-H6EK-M4ZG",
+    "Type": "Weekly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Haftalık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-R36U-LK3C-QQVT",
+    "Type": "SixYears",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-WQMW-ZHUY-Y2AQ",
+    "Type": "SixYears",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-9V6S-UUUW-AS3Q",
+    "Type": "SixMonths",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-U8YN-S54N-KLHD",
+    "Type": "Yearly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-N5DG-U4HS-VCT8",
+    "Type": "Yearly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-JT4C-ZYEA-ZNM3",
+    "Type": "Monthly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-5SHC-VJL8-A3YM",
+    "Type": "SixYears",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-N4KU-8JLX-5AJY",
+    "Type": "Lifetime",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "Ömür Boyu Lisans"
+  },
+  {
+    "Key": "OPDI-2026-M6YV-ZBBC-DE65",
+    "Type": "Lifetime",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "Ömür Boyu Lisans"
+  },
+  {
+    "Key": "OPDI-2026-SCTM-9S68-47QB",
+    "Type": "Yearly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-QFD9-SKPG-93VG",
+    "Type": "Weekly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Haftalık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-YQP2-7SWW-7SWK",
+    "Type": "Yearly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-GLSY-5RV9-CD3Z",
+    "Type": "SixYears",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-FWS7-PWAX-SWNS",
+    "Type": "Monthly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-LM2C-NCAC-K3T7",
+    "Type": "Monthly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-4LP3-VKWG-74UQ",
+    "Type": "SixYears",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-PW8J-576E-S9F4",
+    "Type": "SixYears",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-J346-6XWM-G8XU",
+    "Type": "Weekly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Haftalık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-GPQF-JCMS-9QVD",
+    "Type": "Lifetime",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "Ömür Boyu Lisans"
+  },
+  {
+    "Key": "OPDI-2026-2L4F-YMLL-QJHM",
+    "Type": "Weekly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Haftalık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-DL9P-ZLN7-P3RB",
+    "Type": "Monthly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-GXEW-V34P-H5VW",
+    "Type": "Yearly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-48EW-9PV3-6SLS",
+    "Type": "Yearly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-NSW6-KWST-5UJC",
+    "Type": "Monthly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-8AYK-RUPN-PLTR",
+    "Type": "Lifetime",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "Ömür Boyu Lisans"
+  },
+  {
+    "Key": "OPDI-2026-ES9X-K53V-8W87",
+    "Type": "Yearly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-N5S7-ZS25-V6TE",
+    "Type": "SixMonths",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-SF38-RQY5-ATST",
+    "Type": "Yearly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-B6V8-KQEE-STFA",
+    "Type": "SixYears",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-B6SK-DFR9-NW7N",
+    "Type": "Weekly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Haftalık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-WHBU-B6DR-98KU",
+    "Type": "SixYears",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-E8C7-ASGA-DPU4",
+    "Type": "Lifetime",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "Ömür Boyu Lisans"
+  },
+  {
+    "Key": "OPDI-2026-DMJ6-M7YL-DVSE",
+    "Type": "Weekly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Haftalık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-VAJ9-H9BG-JRMM",
+    "Type": "Lifetime",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "Ömür Boyu Lisans"
+  },
+  {
+    "Key": "OPDI-2026-LFJ6-LDGE-B4VP",
+    "Type": "Lifetime",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "Ömür Boyu Lisans"
+  },
+  {
+    "Key": "OPDI-2026-6BUH-V3V6-9Z9U",
+    "Type": "SixYears",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-UY35-QB53-52Y6",
+    "Type": "SixMonths",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-SZX4-2MBU-7934",
+    "Type": "SixMonths",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-YLW3-34XL-YF38",
+    "Type": "SixMonths",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-XGCP-Z3UZ-FJ4V",
+    "Type": "Weekly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Haftalık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-DUC5-FMJM-GVZV",
+    "Type": "SixMonths",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-J66L-5KN4-THCF",
+    "Type": "SixYears",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-HCHB-LBEX-SLBS",
+    "Type": "Yearly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-V3JD-RHSF-5J4J",
+    "Type": "Weekly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Haftalık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-5XQB-2MDE-S5K8",
+    "Type": "SixMonths",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-NLET-JXQP-86AU",
+    "Type": "Lifetime",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "Ömür Boyu Lisans"
+  },
+  {
+    "Key": "OPDI-2026-U8TA-B5XK-ZJ98",
+    "Type": "Monthly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-8RKA-SQN9-AUJ2",
+    "Type": "SixYears",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-28QX-S5FJ-H8FS",
+    "Type": "Yearly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-4KBM-JFHG-Q3EA",
+    "Type": "SixYears",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-EFFK-V8MV-2HNM",
+    "Type": "Monthly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-YWLH-SLWM-QKYK",
+    "Type": "Lifetime",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "Ömür Boyu Lisans"
+  },
+  {
+    "Key": "OPDI-2026-3DLH-R8MZ-EUUE",
+    "Type": "Lifetime",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "Ömür Boyu Lisans"
+  },
+  {
+    "Key": "OPDI-2026-DDT4-8U6R-T4FD",
+    "Type": "Lifetime",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "Ömür Boyu Lisans"
+  },
+  {
+    "Key": "OPDI-2026-HPKF-AUH7-W95G",
+    "Type": "Yearly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-2H4K-AHCV-AEFL",
+    "Type": "SixMonths",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-QCVN-BLRV-95F5",
+    "Type": "SixMonths",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-3L63-PKPT-87Q9",
+    "Type": "Lifetime",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "Ömür Boyu Lisans"
+  },
+  {
+    "Key": "OPDI-2026-JLSL-DFH2-GAUU",
+    "Type": "SixMonths",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-KRYM-B96V-LWQV",
+    "Type": "Weekly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Haftalık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-74TU-VSC8-788V",
+    "Type": "Yearly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-7EAW-LA6D-J855",
+    "Type": "SixYears",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-FMXD-Q3P6-DJ3D",
+    "Type": "Monthly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-PNJE-8BFA-F2SJ",
+    "Type": "Monthly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-DG54-AVWQ-666F",
+    "Type": "Lifetime",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "Ömür Boyu Lisans"
+  },
+  {
+    "Key": "OPDI-2026-6PN4-BECE-Z82D",
+    "Type": "Weekly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Haftalık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-RTQD-MTYF-TMK9",
+    "Type": "SixYears",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-8QX4-LUSU-RUFX",
+    "Type": "Yearly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-3RNK-UHNN-CKE4",
+    "Type": "Monthly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-WEKA-N7NY-443A",
+    "Type": "Yearly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-UZX5-UXAA-E92L",
+    "Type": "Lifetime",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "Ömür Boyu Lisans"
+  },
+  {
+    "Key": "OPDI-2026-PUKJ-B7GA-E8ZB",
+    "Type": "SixMonths",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-MGVX-E9GV-J88N",
+    "Type": "Monthly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-A6FH-2GJS-UDZT",
+    "Type": "Yearly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-2HYX-PS5Y-ZUDR",
+    "Type": "SixYears",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-PTD3-JMPJ-47SB",
+    "Type": "Weekly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Haftalık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-63FE-CYY2-BG9N",
+    "Type": "Lifetime",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "Ömür Boyu Lisans"
+  },
+  {
+    "Key": "OPDI-2026-2L27-P7DH-S8N2",
+    "Type": "SixMonths",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-ZNNH-ZDA4-FM6M",
+    "Type": "Yearly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-Q7B5-5ELB-Z8PB",
+    "Type": "Weekly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Haftalık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-C279-5TAT-WVYZ",
+    "Type": "SixMonths",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-A3AB-9S7N-QWPD",
+    "Type": "Weekly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Haftalık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-NQD8-5ZAB-U7VX",
+    "Type": "SixYears",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-33PU-43QZ-Y5ZB",
+    "Type": "SixMonths",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-ECYC-GSBX-PEGH",
+    "Type": "SixYears",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-JC7K-7L4J-SMMS",
+    "Type": "Lifetime",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "Ömür Boyu Lisans"
+  },
+  {
+    "Key": "OPDI-2026-WF3H-M26R-U2N5",
+    "Type": "Weekly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Haftalık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-FB8Z-MJ8C-EFLS",
+    "Type": "Yearly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-K4F9-6ETN-DQCQ",
+    "Type": "Weekly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Haftalık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-J2LZ-CPD8-N6EW",
+    "Type": "SixMonths",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-TT67-6URQ-3SFW",
+    "Type": "Monthly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-BC68-SKEK-XLBC",
+    "Type": "Monthly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-UXNA-XXSH-KMHR",
+    "Type": "Monthly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-89LT-3AX7-9QPQ",
+    "Type": "Monthly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-QKMN-XDGA-MLJJ",
+    "Type": "Yearly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-F4D9-DEZX-NZJB",
+    "Type": "Yearly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-U8VE-MLXS-AMAH",
+    "Type": "Monthly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-VH8R-J3AH-9C57",
+    "Type": "Weekly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Haftalık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-YVML-RM4T-QZCJ",
+    "Type": "SixYears",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Yıllık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-8P9G-M3CL-YV4W",
+    "Type": "SixMonths",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-HN25-MNTS-Q648",
+    "Type": "Weekly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Haftalık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-48BM-75SN-SAZL",
+    "Type": "Monthly",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "1 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-XVEG-EFQT-AVCD",
+    "Type": "SixMonths",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-S54A-YDHL-JZY9",
+    "Type": "SixMonths",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "6 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-W88Q-HUX6-UB5D",
+    "Type": "Lifetime",
+    "Active": true,
+    "MaxActivations": 1,
+    "Notes": "Ömür Boyu Lisans"
+  }
+]
