@@ -831,5 +831,15 @@
     "Active": true,
     "MaxActivations": 1,
     "Notes": "6 Aylık Lisans"
+  },
+  {
+    "Key": "OPDI-2026-1I4E-1LJL-3TR9",
+    "Type": "Lifetime",
+    "Active": true,
+    "MaxActivations": 1,
+    "CurrentActivations": 0,
+    "Notes": "OPENDPI-PROGRAM",
+    "CreatedAt": "2026-04-06T19:47:33.942Z",
+    "ExpiresAt": null
   }
 ]
