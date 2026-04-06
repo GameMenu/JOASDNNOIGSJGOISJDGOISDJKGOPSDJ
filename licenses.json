@@ -831,12 +831,5 @@
     "Active": true,
     "MaxActivations": 1,
     "Notes": "6 Aylık Lisans"
-  },
-  {
-    "Key": "OPDI-2026-W88Q-HUX6-UB5D",
-    "Type": "Lifetime",
-    "Active": true,
-    "MaxActivations": 1,
-    "Notes": "Ömür Boyu Lisans"
   }
 ]
